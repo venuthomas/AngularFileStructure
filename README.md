@@ -16,4 +16,4 @@ Install depedencies
 
 ## Running the application
 
-Run <code>ng serve</code> for a dev server. Navigate to <code>http://localhost:4200/</code>.
+Run <code>ng serve</code> in terminal or windows cmd and navigate to <code>http://localhost:4200/</code>.
